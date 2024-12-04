@@ -4,26 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e72f91c8-b316-4699-8092-65f5591a4d86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/BasicAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/BasicAccount1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee1/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee1/TestEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabeledPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestLabeledPoint.java" afterDir="false" />
+    <list default="true" id="e72f91c8-b316-4699-8092-65f5591a4d86" name="Changes" comment="Inheritance Exercises">
+      <change afterPath="$PROJECT_DIR$/src/Assignment/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/InvalidAmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee2/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee2/Executive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceandInterfaceTogether/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceandInterfaceTogether/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceandInterfaceTogether/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceandInterfaceTogether/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockLabTest/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockLabTest/Supervisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockLabTest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockLabTest/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/BetterRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/BetterRectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/MultiChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/NumericQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1/QuestionNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/LabeledPoint2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/LabeledPoint2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/VehicleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/InvalidAmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/BasicAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex3/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex3/TestCheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/BasicAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/BasicAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/BasicAccount1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/BasicAccount1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee1/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee1/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee1/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee1/TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestLabeledPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestLabeledPoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +59,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,9 +67,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2hI0qtgkz15vZpUGhjJcgwGyi3z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,19 +78,110 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BetterRectangleTest.executor": "Run",
+    "Application.EmployeeTest.executor": "Run",
+    "Application.LabeledPoint2Test.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TestEmployee.executor": "Run",
     "Application.TestEmployeeClass.executor": "Run",
     "Application.TestLabeledPoint.executor": "Run",
     "Application.TestLablePoint.executor": "Run",
     "Application.TestPerson.executor": "Run",
+    "Application.VehicleTest.executor": "Run",
+    "Application.ex.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/JAVA/Inheritance/src/Main.java"
+    "onboarding.tips.debug.path": "E:/JAVA/Inheritance/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LabeledPoint2Test">
+    <configuration name="LabeledPoint2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vehicle.LabeledPoint2Test" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex2.Main" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockLabTest.Test" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MockLabTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person.TestPerson" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.Main" />
+      <module name="Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LabeledPoint2Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ex.Main" />
+        <item itemvalue="Application.TestPerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +191,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717266482335</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inheritance Exercises">
+      <option name="closed" value="true" />
+      <created>1717272174044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717272174044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inheritance Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Exercises" />
   </component>
 </project>

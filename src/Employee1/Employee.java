@@ -1,8 +1,8 @@
 package Employee1;
 
-public class Employee {
+public  class Employee {
     private String name;
-    private  double baseSalary;
+    protected   double baseSalary;
 
     public Employee(String name, double baseSalary) {
         this.name = name;
@@ -22,6 +22,9 @@ public class Employee {
     }
 
     public double getBaseSalary() {
+        return baseSalary;
+    }
+    public double getsalary(){
         return baseSalary;
     }
     public void display() {

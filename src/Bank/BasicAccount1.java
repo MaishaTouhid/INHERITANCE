@@ -7,7 +7,7 @@ public class BasicAccount1 extends BasicAccount {
         super(balance);
     }
     @Override
-    public boolean withdraw(double amount) {
+    public double withdraw(double amount) {
         if (amount <= getBalance()) {
             return super.withdraw(amount);
         } else {
@@ -15,5 +15,6 @@ public class BasicAccount1 extends BasicAccount {
             super.withdraw(OVERDRAFT_PENALTY);
 
         }
-        }
+        return amount;
+    }
 }

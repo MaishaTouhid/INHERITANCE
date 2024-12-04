@@ -14,10 +14,17 @@ public class Manager extends Employee {
     public double getBonus() {
         return bonus;
     }
-   @Override
-   public double getBaseSalary() {
-       return super.getBaseSalary() + this.bonus;
-   }
+
+    @Override
+    public double getBaseSalary() {
+        return super.getBaseSalary();
+    }
+
+    @Override
+    public double getsalary() {
+        return super.getsalary() + bonus;
+    }
+    
    @Override
     public void display(){
          super.display();

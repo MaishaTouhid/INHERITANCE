@@ -1,9 +1,12 @@
 public class TestLabeledPoint {
     public static void main(String[] args) {
 
-        LabeledPoint point = new LabeledPoint(5, 10, "Point A");
+        // Create LabeledPoint objects
+        LabeledPoint point1 = new LabeledPoint(10, 20, "Point A");
+        LabeledPoint point2 = new LabeledPoint(30, 40, "Point B");
 
-        // Print the LabeledPoint object
-        System.out.println(point);
+        // Display the points
+        System.out.println(point1);
+        System.out.println(point2);
     }
 }

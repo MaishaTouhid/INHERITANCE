@@ -11,5 +11,6 @@ public class BasicAccount extends BankAccount{
         } else {
             System.out.println("Insufficient funds");
         }
+        return amount;
     }
 }
